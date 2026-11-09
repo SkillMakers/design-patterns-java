@@ -1,0 +1,9 @@
+  36 src/main/java/boutique/strategie/DemoStrategie.java
+  22 src/main/java/boutique/strategie/FraisLivraisonAvant.java
+  10 src/main/java/boutique/strategie/LivraisonExpress.java
+  10 src/main/java/boutique/strategie/LivraisonStandard.java
+  27 src/main/java/boutique/strategie/ModesLivraison.java
+  11 src/main/java/boutique/strategie/Panier.java
+  10 src/main/java/boutique/strategie/RetraitMagasin.java
+  12 src/main/java/boutique/strategie/StrategieLivraison.java
+ 138 total

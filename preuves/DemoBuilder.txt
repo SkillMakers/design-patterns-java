@@ -1,0 +1,5 @@
+$ java boutique.builder.DemoBuilder
+Constructeur : colis envoye a 12 rue des Lilas, Lyon
+Builder      : colis envoye a 3 place Bellecour, Lyon
+Commande[client=Alice, adresseLivraison=3 place Bellecour, Lyon, adresseFacturation=12 rue des Lilas, Lyon, modeLivraison=EXPRESS, codePromo=null, emballageCadeau=false]
+Sans client  : IllegalStateException: client obligatoire

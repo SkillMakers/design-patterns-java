@@ -1,0 +1,13 @@
+$ java boutique.observateur.DemoObservateur
+A. ArrayList, bienvenue en 1er
+  exception : java.util.ConcurrentModificationException
+  appeles : [bienvenue 5001]
+  facture 5001 emise : false
+B. ArrayList, bienvenue en 3e
+  aucune exception
+  appeles : [email 5001, stock 5001, bienvenue 5001]
+  facture 5001 emise : false
+C. CopyOnWriteArrayList, bienvenue en 3e
+  aucune exception
+  appeles : [email 5001, stock 5001, bienvenue 5001, facture 5001]
+  facture 5001 emise : true

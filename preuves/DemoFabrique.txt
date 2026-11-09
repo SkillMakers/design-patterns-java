@@ -1,0 +1,5 @@
+$ java boutique.fabrique.DemoFabrique
+CB       -> Carte[numeroMasque=**** 4242]            commission sur 79,00 : 95
+PAYPAL   -> PayPal[email=alice@exemple.fr]           commission sur 79,00 : 264
+VIREMENT -> Virement[iban=FR76 **** 0189]            commission sur 79,00 : 0
+CHEQUE   -> Moyen de paiement inconnu : CHEQUE

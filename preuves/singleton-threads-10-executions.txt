@@ -1,0 +1,10 @@
+   instances differentes : 8 ; constructeur appele 8 fois
+   instances differentes : 7 ; constructeur appele 8 fois
+   instances differentes : 5 ; constructeur appele 8 fois
+   instances differentes : 6 ; constructeur appele 8 fois
+   instances differentes : 7 ; constructeur appele 8 fois
+   instances differentes : 7 ; constructeur appele 8 fois
+   instances differentes : 6 ; constructeur appele 8 fois
+   instances differentes : 6 ; constructeur appele 8 fois
+   instances differentes : 6 ; constructeur appele 8 fois
+   instances differentes : 8 ; constructeur appele 8 fois

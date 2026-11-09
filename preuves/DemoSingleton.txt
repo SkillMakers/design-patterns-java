@@ -1,0 +1,9 @@
+$ java boutique.singleton.DemoSingleton
+1. Threads : 8 threads appellent getInstance() en meme temps
+   instances differentes : 5 ; constructeur appele 8 fois
+2. Serialisation : a == b -> false
+3. Reflexion : a == d -> false
+--- enum ---
+1. Threads : instances differentes : 1
+2. Serialisation : e == f -> true
+3. Reflexion : IllegalArgumentException: Cannot reflectively create enum objects

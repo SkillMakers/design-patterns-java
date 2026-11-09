@@ -1,0 +1,7 @@
+$ (MoyenPaiement avec Crypto ajoute, FraisPaiement inchange)
+$ javac boutique/fabrique/*.java
+boutique/fabrique/FraisPaiement.java:14: error: the switch expression does not cover all possible input values
+        return switch (moyen) {
+               ^
+1 error
+(compilation refusee, code 1)

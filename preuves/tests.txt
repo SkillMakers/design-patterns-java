@@ -1,0 +1,5 @@
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.423 s -- in boutique.builder.CommandeTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.198 s -- in boutique.fabrique.FabriquePaiementTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.063 s -- in boutique.observateur.SujetCommandeTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.378 s -- in boutique.singleton.SingletonTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.819 s -- in boutique.strategie.StrategieLivraisonTest

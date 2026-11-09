@@ -1,0 +1,11 @@
+$ java boutique.strategie.DemoStrategie
+Panier Panier[montantCentimes=3200, poidsGrammes=2500]
+  STANDARD avant= 490  classe= 490  lambda= 490
+  EXPRESS  avant=1190  classe=1190  lambda=1190
+  RETRAIT  avant=   0  classe=   0  lambda=   0
+  RELAIS   lambda= 290 (nouveau mode, rien d'autre n'a change)
+Panier Panier[montantCentimes=7900, poidsGrammes=2500]
+  STANDARD avant=   0  classe=   0  lambda=   0
+  EXPRESS  avant=1190  classe=1190  lambda=1190
+  RETRAIT  avant=   0  classe=   0  lambda=   0
+  RELAIS   lambda= 290 (nouveau mode, rien d'autre n'a change)
